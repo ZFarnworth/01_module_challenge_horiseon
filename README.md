@@ -1,4 +1,4 @@
-# 01-Week-Challenge-Horiseon 
+# Horiseon Website
 
 Week one challenge for the website named Horiseon.
 
